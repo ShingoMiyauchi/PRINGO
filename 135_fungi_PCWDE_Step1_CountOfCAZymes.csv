@@ -1,0 +1,136 @@
+"CladeOrder","JGI_ID","FungusName","Ecology","Phylum","Class","Order","Family","Genus","CBM1","AA9","AA1","AA1_1","AA1_2","AA1_3","AA2","GH6","GH7","GH45","CE1"
+1,"Lacam2","Laccaria amethystina","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Agaricales","Tricholomataceae","Laccaria",1,2,0,5,0,0,1,0,0,0,0
+2,"Lacbi2","Laccaria bicolor","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Agaricales","Tricholomataceae","Laccaria",1,4,1,9,1,0,1,0,0,0,0
+3,"Copci1","Coprinopsis cinerea","Saprotroph","Basidiomycota","Agaricomycetes","Agaricales","Psathyrellaceae","Coprinopsis",30,28,0,17,0,0,1,5,6,1,3
+4,"Copmic2","Coprinellus micaceus","Saprotroph","Basidiomycota","Agaricomycetes","Agaricales","Psathyrellaceae","Coprinellus",44,38,0,17,0,0,3,2,7,0,1
+5,"Hypsu1","Hypholoma sublateritium","Wood decayer","Basidiomycota","Agaricomycetes","Agaricales","Strophariaceae","Hypholoma",26,12,0,9,0,0,14,1,4,1,2
+6,"Hebcy2","Hebeloma cylindrosporum","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Agaricales","Cortinariaceae","Hebeloma",2,1,0,2,0,0,3,0,1,0,0
+7,"Corgl3","Cortinarius glaucopus","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Agaricales","Cortinariaceae","Cortinarius",3,2,0,5,1,0,9,0,0,2,0
+8,"Crula1","Crucibulum laeve","Saprotroph","Basidiomycota","Agaricomycetes","Agaricales","Nidulariaceae","Crucibulum",39,31,0,15,0,0,13,4,8,3,2
+9,"Trima3","Tricholoma matsutake","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Agaricales","Tricholomataceae","Tricholoma",1,2,0,10,0,0,0,0,2,1,0
+10,"Amath1","Amanita thiersii","Saprotroph","Basidiomycota","Agaricomycetes","Agaricales","Amanitaceae","Amanita",8,12,0,10,0,0,0,1,1,2,1
+11,"Amarub1","Amanita rubescens","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Agaricales","Amanitaceae","Amanita",0,1,0,8,0,0,0,0,0,1,0
+12,"Amamu1","Amanita muscaria","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Agaricales","Amanitaceae","Amanita",0,2,0,12,0,0,0,0,0,0,0
+13,"Plucer1","Pluteus cervinus","Saprotroph","Basidiomycota","Agaricomycetes","Agaricales","Pluteaceae","Pluteus",24,23,0,9,0,0,12,2,4,2,2
+14,"Gyman1","Gymnopus androsaceus","Saprotroph","Basidiomycota","Agaricomycetes","Agaricales","Omphalotaceae","Gymnopus",29,5,1,23,0,0,9,0,8,2,2
+15,"Ompol1","Omphalotus olearius","Saprotroph","Basidiomycota","Agaricomycetes","Agaricales","Omphalotaceae","Omphalotus",12,9,0,3,0,0,4,1,2,3,2
+16,"Marfi1","Marasmius fiardii","Saprotroph","Basidiomycota","Agaricomycetes","Agaricales","Marasmiaceae","Marasmius",10,17,0,16,0,0,0,2,3,2,1
+17,"Monpe1_1","Moniliophthora perniciosa","Pathogen","Basidiomycota","Agaricomycetes","Agaricales","Marasmiaceae","Moniliophthora",2,11,0,3,0,0,1,0,2,0,0
+18,"Mycgal1","Mycena galopus","Saprotroph","Basidiomycota","Agaricomycetes","Agaricales","Mycenaceae","Mycena",44,11,3,24,2,0,17,1,11,2,4
+19,"Armga1","Armillaria gallica","Pathogen","Basidiomycota","Agaricomycetes","Agaricales","Physalacriaceae","Armillaria",13,17,1,21,0,0,8,2,2,4,1
+20,"PleosPC15_2","Pleurotus ostreatus","Wood decayer","Basidiomycota","Agaricomycetes","Agaricales","Pleurotaceae","Pleurotus",32,25,0,11,1,0,9,2,16,2,2
+21,"Schco3","Schizophyllum commune","Wood decayer","Basidiomycota","Agaricomycetes","Agaricales","Schizophyllaceae","Schizophyllum",5,19,0,2,0,0,0,1,2,1,7
+22,"Paxam1","Paxillus ammoniavirescens","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Paxillaceae","Paxillus",0,3,0,10,0,0,0,0,0,0,0
+23,"Paxru2","Paxillus adelphus","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Paxillaceae","Paxillus",0,3,0,13,0,0,0,0,0,0,0
+24,"Paxin1","Paxillus involutus","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Paxillaceae","Paxillus",0,3,0,12,1,0,0,0,0,0,0
+25,"Gyrli1","Gyrodon lividus","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Gyrodontaceae","Gyrodon",1,4,0,6,0,0,0,0,0,0,0
+26,"Xerba1","Xerocomus badius","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Boletaceae","Xerocomus",0,3,0,9,0,0,0,0,0,1,0
+27,"Boled5","Boletus edulis","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Boletaceae","Boletus",0,2,0,4,0,0,0,0,0,1,0
+28,"Boledp1","Boletus edulis P","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Boletaceae","Boletus",0,2,0,6,0,0,0,0,0,2,0
+29,"Pismi1","Pisolithus microcarpus","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Pisolithaceae","Pisolithus",0,3,0,8,0,0,0,0,0,0,0
+30,"Pisti1","Pisolithus tinctorius","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Pisolithaceae","Pisolithus",0,4,0,7,0,0,0,0,0,0,0
+31,"Sclci1","Scleroderma citrinum","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Sclerodermataceae","Scleroderma",0,2,0,8,0,0,0,0,0,0,0
+32,"Suilu4","Suillus luteus","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Suillaceae","Suillus",0,2,0,16,0,0,0,0,0,1,0
+33,"Suibr2","Suillus brevipes","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Suillaceae","Suillus",0,2,0,14,0,0,0,0,0,1,0
+34,"Conpu1","Coniophora puteana","Wood decayer","Basidiomycota","Agaricomycetes","Boletales","Coniophoraceae","Coniophora",2,10,0,3,0,0,0,1,2,1,0
+35,"SerlaS7_3_2","Serpula lacrymans","Wood decayer","Basidiomycota","Agaricomycetes","Boletales","Serpulaceae","Serpula",7,5,0,4,0,0,0,1,0,1,0
+36,"Rhives1","Rhizopogon vesiculosus","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Rhizopogonaceae","Rhizopogon",0,3,0,11,0,0,0,0,0,0,0
+37,"Rhivi1","Rhizopogon vinicolor","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Rhizopogonaceae","Rhizopogon",0,2,0,14,0,0,0,0,0,0,0
+38,"Melbro1","Melanogaster broomeianus","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Boletales","Melanogastraceae","Melanogaster",1,9,0,13,0,0,0,0,0,0,0
+39,"Fibsp1","Fibulorhizoctonia sp.","Saprotroph","Basidiomycota","Agaricomycetes","Atheliales","Atheliaceae","Fibularhizoctonia",31,14,0,26,1,0,0,1,20,7,7
+40,"Pilcr1","Piloderma croceum","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Atheliales","Atheliaceae","Piloderma",0,1,5,9,2,0,0,0,1,1,2
+41,"Plicr1","Plicaturopsis crispa","Wood decayer","Basidiomycota","Agaricomycetes","Amylocorticiales","Amylocorticiaceae","Plicaturopsis",8,8,0,5,0,0,7,2,1,0,4
+42,"Phchr2","Phanerochaete chrysosporium","Wood decayer","Basidiomycota","Agaricomycetes","Polyporales","Phanerochaetaceae","Phanerochaete",34,12,1,0,0,0,14,1,8,2,1
+43,"Phlbr1","Phlebia brevispora","Wood decayer","Basidiomycota","Agaricomycetes","Polyporales","Meruliaceae","Phlebia",24,9,0,6,1,0,11,1,4,3,1
+44,"PosplRSB12_1","Postia placenta","Wood decayer","Basidiomycota","Agaricomycetes","Polyporales","Dacryobolaceae","Postia",0,2,0,2,1,0,0,0,0,0,0
+45,"Neole1","Neolentinus lepideus","Wood decayer","Basidiomycota","Agaricomycetes","Gloeophyllales","Gloeophyllaceae","Neolentinus",0,4,0,3,1,0,0,0,0,2,0
+46,"Jaaar1","Jaapia argillacea","Wood decayer","Basidiomycota","Agaricomycetes","Jaapiales","Jaapiaceae","Jaapia",23,14,0,1,0,0,1,3,4,1,2
+47,"Punst1","Punctularia strigosozonata","Pathogen","Basidiomycota","Agaricomycetes","Corticiales","Punctulariaceae","Punctularia",20,11,0,12,0,0,11,1,4,1,2
+48,"Sisni1","Sistotremastrum niveocremeum","Wood decayer","Basidiomycota","Agaricomycetes","Trechisporales","Hydnodontaceae","Sistotremastrum",48,21,1,9,0,0,14,4,3,2,2
+49,"Hetan2","Heterobasidion annosum","Pathogen","Basidiomycota","Agaricomycetes","Russulales","Bondarzewiaceae","Heterobasidion",17,9,2,11,0,0,7,1,1,2,1
+50,"Lacqui1","Lactarius quietus","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Russulales","Russulaceae","Lactarius",0,2,0,14,0,0,1,0,0,9,0
+51,"Lenvul1","Lentinellus vulpinus","Wood decayer","Basidiomycota","Agaricomycetes","Russulales","Auriscalpiaceae","Lentinellus",20,9,1,6,0,0,11,1,3,1,2
+52,"Ruseme1","Russula emetica","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Russulales","Russulaceae","Russula",0,1,0,9,0,0,2,0,0,4,0
+53,"Rusoch1","Russula ochroleuca","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Russulales","Russulaceae","Russula",0,2,0,10,0,0,2,0,0,7,0
+54,"Theter1","Thelephora terrestris","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Thelephorales","Thelephoraceae","Thelephora",1,3,0,0,0,0,0,0,0,1,0
+55,"Thega1","Thelephora ganbajun","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Thelephorales","Thelephoraceae","Thelephora",0,3,1,0,0,0,0,0,0,0,0
+56,"Ramac1","Ramaria rubella","Saprotroph","Basidiomycota","Agaricomycetes","Gomphales","Gomphaceae","Ramaria",16,6,5,9,0,0,13,2,3,2,4
+57,"Gaumor1_1","Gautieria morchelliformis","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Gomphales","Gautieriaceae","Gautieria",3,1,0,10,0,0,25,1,1,2,0
+58,"Hyssto1","Hysterangium stoloniferum","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Hysterangiales","Hysterangiaceae","Hysterangium",0,1,1,13,0,0,5,0,0,1,0
+59,"Sphst1","Sphaerobolus stellatus","Wood decayer","Basidiomycota","Agaricomycetes","Geastrales","Sphaerobolaceae","Sphaerobolus",45,34,2,14,0,0,41,4,8,2,5
+60,"Aurde3_1","Auricularia subglabra","Wood decayer","Basidiomycota","Agaricomycetes","Auriculariales","Auriculariaceae","Auricularia",44,16,2,0,0,3,15,2,6,3,4
+61,"Pirin1","Piriformospora indica","Endophyte","Basidiomycota","Agaricomycetes","Sebacinales","Serendipitaceae","Serendipita",60,22,0,1,0,0,0,2,1,2,9
+62,"Sebve1","Sebacina vermifera","Orchid mycorrhizae","Basidiomycota","Agaricomycetes","Sebacinales","Serendipitaceae","Serendipita",47,24,0,5,0,0,0,5,4,1,6
+63,"Hydru2","Hydnum rufescens","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Cantharellales","Hydnaceae","Hydnum",1,2,4,0,1,0,0,0,1,0,0
+64,"Cananz1","Cantharellus anzutake","Ectomycorrhizae","Basidiomycota","Agaricomycetes","Cantharellales","Cantharellaceae","Cantharellus",1,7,0,7,1,0,0,0,1,3,0
+65,"ClaPMI390","Sistotrema sp.","Saprotroph","Basidiomycota","Agaricomycetes","Cantharellales","Clavulinaceae","",49,18,0,0,1,0,0,2,4,3,2
+66,"Botbo1","Botryobasidium botryosum","Saprotroph","Basidiomycota","Agaricomycetes","Cantharellales","Botryobasidiaceae","Botryobasidium",27,31,3,0,1,0,0,2,7,0,2
+67,"Tulca1","Tulasnella calospora","Orchid mycorrhizae","Basidiomycota","Agaricomycetes","Cantharellales","Tulasnellaceae","Tulasnella",76,28,1,0,0,0,0,5,17,2,2
+68,"CerAGI","Ceratobasidium sp.","Orchid mycorrhizae","Basidiomycota","Agaricomycetes","Cantharellales","Ceratobasidiaceae","Ceratobasidium",50,27,10,6,0,0,0,6,12,4,3
+69,"Rhiso1","Rhizoctonia solani","Pathogen","Basidiomycota","Agaricomycetes","Cantharellales","Ceratobasidiaceae","Rhizoctonia",34,31,11,7,0,0,0,3,8,5,0
+70,"Treme1","Tremella mesenterica","Wood decayer","Basidiomycota","Tremellomycetes","Tremellales","Tremellaceae","Tremella",0,0,2,0,0,0,0,0,0,0,0
+71,"Dacsp1","Dacryopinax primogenitus","Wood decayer","Basidiomycota","Dacrymycetes","Dacrymycetales","Dacrymycetaceae","Dacryopinax",1,0,0,0,0,0,0,0,0,0,0
+72,"Walse1","Wallemia sebi","Saprotroph","Basidiomycota","Wallemiomycetes","Wallemiales","","Wallemia",0,8,0,0,0,0,0,0,0,0,0
+73,"Chalo1","Chalara longipes","Saprotroph","Ascomycota","Leotiomycetes","Helotiales","","Chalara",12,24,4,0,6,8,1,2,9,2,7
+74,"Melva1","Meliniomyces variabilis","Ericoid mycorrhizae","Ascomycota","Leotiomycetes","Helotiales","Helotiaceae","Meliniomyces",11,18,2,0,7,5,1,2,8,4,4
+75,"Melbi2","Meliniomyces bicolor","Ericoid mycorrhizae","Ascomycota","Leotiomycetes","Helotiales","Helotiaceae","Meliniomyces",10,3,2,0,4,10,1,1,3,2,4
+76,"Rhier1","Rhizoscyphus ericae","Ericoid mycorrhizae","Ascomycota","Leotiomycetes","Helotiales","Leotiaceae","Pezoloma",11,6,3,0,3,4,0,1,1,2,1
+77,"Acema1","Acephala macrosclerotiorum","Ectomycorrhizae","Ascomycota","Leotiomycetes","Helotiales","","Acephala",17,12,3,0,7,8,0,1,3,2,3
+78,"Phisc1","Phialocephala scopiformis","Endophyte","Ascomycota","Leotiomycetes","Helotiales","","Phialocephala",19,19,2,0,7,10,1,3,6,2,4
+79,"Ascsa1","Ascocoryne sarcoides","Endophyte","Ascomycota","Leotiomycetes","Helotiales","Helotiaceae","Ascocoryne",28,5,1,0,0,3,0,2,5,3,4
+80,"Glalo1","Glarea lozoyensis","Saprotroph","Ascomycota","Leotiomycetes","Helotiales","Helotiaceae","Glarea",12,22,2,0,1,5,4,3,5,1,9
+81,"Amore1","Amorphotheca resinae","Saprotroph","Ascomycota","Leotiomycetes","","Myxotrichaceae","Amorphotheca",2,1,1,0,1,3,0,0,0,0,0
+82,"Oidma1","Oidiodendron maius","Ericoid mycorrhizae","Ascomycota","Leotiomycetes","","Myxotrichaceae","Oidiodendron",30,8,0,0,1,10,0,2,5,2,4
+83,"Bissp1","Bisporella sp.","Saprotroph","Ascomycota","Leotiomycetes","Helotiales","Helotiaceae","Bisporella",20,24,2,0,0,7,3,2,2,1,8
+84,"Sclsc1","Sclerotinia sclerotiorum","Pathogen","Ascomycota","Leotiomycetes","Helotiales","Sclerotiniaceae","Sclerotinia",16,8,0,0,0,4,0,1,2,2,0
+85,"Botci1","Botrytis cinerea","Pathogen","Ascomycota","Leotiomycetes","Helotiales","Sclerotiniaceae","Botrytis",14,7,0,0,0,4,0,1,3,1,0
+86,"Maggr1","Magnaporthe grisea","Pathogen","Ascomycota","Sordariomycetes","Magnaporthales","Magnaporthaceae","Magnaporthe",17,18,3,0,1,5,1,2,3,1,8
+87,"Neucr_trp3_1","Neurospora crassa","Saprotroph","Ascomycota","Sordariomycetes","Sordariales","Sordariaceae","Neurospora",19,13,0,0,1,7,0,2,4,1,5
+88,"Trire2","Trichoderma reesei","Saprotroph","Ascomycota","Sordariomycetes","Hypocreales","Hypocreaceae","Trichoderma",13,2,3,0,0,0,0,1,1,1,2
+89,"Xylhyp1","Xylaria hypoxylon","Saprotroph","Ascomycota","Sordariomycetes","Xylariales","Xylariaceae","Xylaria",16,18,2,0,0,6,1,3,4,1,4
+90,"Cenge3","Cenococcum geophilum","Ectomycorrhizae","Ascomycota","Dothideomycetes","","Gloniaceae","Cenococcum",3,5,0,0,0,5,1,1,1,2,1
+91,"Glost2","Glonium stellatum","Saprotroph","Ascomycota","Dothideomycetes","","Gloniaceae","Glonium",13,16,1,0,1,13,5,2,3,3,5
+92,"Leppa1","Lepidopterella palustris","Saprotroph","Ascomycota","Dothideomycetes","Mytilinidiales","Argynnaceae","Lepidopterella",2,2,0,0,1,5,0,0,0,1,0
+93,"Stasp1","Stagonospora sp.","Pathogen","Ascomycota","Dothideomycetes","Pleosporales","Massarinaceae","Stagonospora",15,30,2,0,0,4,3,5,4,3,11
+94,"Altal1","Alternaria alternata","Pathogen","Ascomycota","Dothideomycetes","Pleosporales","Pleosporaceae","Alternaria",12,25,1,0,1,4,4,3,3,3,4
+95,"Aurpu_var_pul1","Aureobasidium pullulans","Saprotroph","Ascomycota","Dothideomycetes","Dothideales","Saccotheciaceae","Aureobasidium",4,4,1,0,1,4,2,0,1,3,2
+96,"Clafu1","Cladosporium fulvum","Pathogen","Ascomycota","Dothideomycetes","Capnodiales","Mycosphaerellaceae","Passalora",0,2,1,0,0,8,2,0,2,0,2
+97,"Aspcl1","Aspergillus clavatus","Saprotroph","Ascomycota","Eurotiomycetes","Eurotiales","Aspergillaceae","Aspergillus",13,7,2,0,2,0,0,2,3,0,5
+98,"Aspfl1","Aspergillus flavus","Pathogen","Ascomycota","Eurotiomycetes","Eurotiales","Aspergillaceae","Aspergillus",4,7,5,0,0,1,0,1,3,0,3
+99,"Artbe1","Arthroderma benhamiae","Pathogen","Ascomycota","Eurotiomycetes","Onygenales","Arthrodermataceae","Trichophyton",0,0,0,0,0,1,0,0,0,0,0
+100,"Usnflo1","Usnea florida","Endophyte","Ascomycota","Lecanoromycetes","Lecanorales","Parmeliaceae","Usnea",0,0,2,0,1,4,0,0,0,1,0
+101,"Xylhe1","Xylona heveae","Endophyte","Ascomycota","Xylonomycetes","Xylonomycetales","Xylonomycetaceae","Xylona",0,1,2,0,0,2,0,0,0,0,0
+102,"Tubma1","Tuber magnatum","Ectomycorrhizae","Ascomycota","Pezizomycetes","Pezizales","Tuberaceae","Tuber",0,1,0,0,1,2,0,2,0,0,0
+103,"Tubae1","Tuber aestivum","Ectomycorrhizae","Ascomycota","Pezizomycetes","Pezizales","Tuberaceae","Tuber",2,2,0,0,1,4,0,1,0,0,0
+104,"Tubme1v2","Tuber melanosporum","Ectomycorrhizae","Ascomycota","Pezizomycetes","Pezizales","Tuberaceae","Tuber",1,3,0,0,1,2,0,0,0,1,0
+105,"Tubbor1","Tuber borchii","Ectomycorrhizae","Ascomycota","Pezizomycetes","Pezizales","Tuberaceae","Tuber",1,3,0,0,1,2,0,0,0,0,0
+106,"Chove1","Choiromyces venosus","Ectomycorrhizae","Ascomycota","Pezizomycetes","Pezizales","Tuberaceae","Choiromyces",4,8,0,0,1,2,0,2,0,1,0
+107,"Morco1","Morchella importuna.C","Saprotroph","Ascomycota","Pezizomycetes","Pezizales","Morchellaceae","Morchella",16,22,0,0,0,1,0,3,2,1,2
+108,"Morimp1","Morchella importuna","Saprotroph","Ascomycota","Pezizomycetes","Pezizales","Morchellaceae","Morchella",16,19,0,0,0,2,0,3,2,1,2
+109,"Gyresc1","Gyromitra esculenta","Saprotroph","Ascomycota","Pezizomycetes","Pezizales","Discinaceae","Gyromitra",18,24,0,0,0,2,0,2,2,0,1
+110,"Calful1","Caloscypha fulgens","Saprotroph","Ascomycota","Pezizomycetes","Pezizales","Caloscyphaceae","Caloscypha",6,12,0,0,0,1,0,2,0,0,0
+111,"Wilmi1","Wilcoxina mikolae","Ectomycorrhizae","Ascomycota","Pezizomycetes","Pezizales","Pyronemataceae","Wilcoxina",2,2,0,0,0,2,1,2,0,0,0
+112,"Trihyb1","Trichophaea hybrida","Ectomycorrhizae","Ascomycota","Pezizomycetes","Pezizales","Pyronemataceae","Trichophaea",1,3,0,0,1,3,0,0,0,0,0
+113,"Pyrco1","Pyronema confluens","Saprotroph","Ascomycota","Pezizomycetes","Pezizales","Pyronemataceae","Pyronema",6,10,0,0,0,1,1,1,2,0,1
+114,"Sarco1","Sarcoscypha coccinea","Saprotroph","Ascomycota","Pezizomycetes","Pezizales","Sarcoscyphaceae","Sarcoscypha",14,18,1,0,0,2,0,1,2,2,1
+115,"Kalpfe1","Kalaharituber pfeilii","Ectomycorrhizae","Ascomycota","Pezizomycetes","Pezizales","Pezizaceae","Kalaharituber",8,7,1,0,0,0,0,0,1,1,0
+116,"Terbo2","Terfezia boudieri","Ectomycorrhizae","Ascomycota","Pezizomycetes","Pezizales","Pezizaceae","Terfezia",3,2,0,0,0,0,0,0,1,0,0
+117,"Tercla1","Terfezia claveryi","Ectomycorrhizae","Ascomycota","Pezizomycetes","Pezizales","Pezizaceae","Terfezia",2,2,0,0,0,1,0,0,1,0,0
+118,"Tirniv1","Tirmania nivea","Ectomycorrhizae","Ascomycota","Pezizomycetes","Pezizales","Pezizaceae","Tirmania",5,5,0,0,0,1,0,1,0,0,0
+119,"Ascim1","Ascobolus immersus","Saprotroph","Ascomycota","Pezizomycetes","Pezizales","Ascobolaceae","Ascobolus",38,29,1,0,0,2,0,4,5,0,8
+120,"Monha1","Monacrosporium haptotylum","Parasite","Ascomycota","Orbiliomycetes","Orbiliales","Orbiliaceae","Dactylellina",98,21,2,0,0,1,0,2,4,3,5
+121,"Artol1","Arthrobotrys oligospora","Parasite","Ascomycota","Orbiliomycetes","Orbiliales","Orbiliaceae","Arthrobotrys",100,22,0,0,0,0,0,2,5,4,6
+122,"SacceM3837_1","Saccharomyces cerevisiae","Yeast","Ascomycota","Saccharomycetes","Saccharomycetales","Saccharomycetaceae","Saccharomyces",0,0,0,0,1,0,0,0,0,0,0
+123,"Wican1","Wickerhamomyces anomalus","Yeast","Ascomycota","Saccharomycetes","Saccharomycetales","Phaffomycetaceae","Wickerhamomyces",0,0,0,0,0,0,0,0,0,0,0
+124,"Canta1","Candida tanzawaensis","Yeast","Ascomycota","Saccharomycetes","Saccharomycetales","Debaryomycetaceae","",0,0,1,0,0,0,0,0,0,0,0
+125,"Tapde1_1","Taphrina deformans","Pathogen","Ascomycota","Taphrinomycetes","Taphrinales","Taphrinaceae","Taphrina",0,0,0,0,0,0,0,0,0,0,0
+126,"Gigro1","Gigaspora rosea","Arbuscular mycorrhizae","Mucoromycota","Glomeromycetes","Diversisporales","Gigasporaceae","Gigaspora",0,0,16,0,0,0,0,0,0,0,0
+127,"Rhice1_1","Rhizophagus cerebriforme","Arbuscular mycorrhizae","Mucoromycota","Glomeromycetes","Glomerales","Glomeraceae","Glomus",0,0,5,0,1,0,0,0,0,0,0
+128,"Rhidi1","Rhizophagus diaphanus","Arbuscular mycorrhizae","Mucoromycota","Glomeromycetes","Glomerales","Glomeraceae","Rhizophagus",0,0,3,0,0,0,0,0,0,0,0
+129,"Rhiir2_1","Rhizophagus irregularis","Arbuscular mycorrhizae","Mucoromycota","Glomeromycetes","Glomerales","Glomeraceae","Rhizophagus",0,0,5,0,0,0,0,0,0,0,0
+130,"Gloin1","Rhizophagus irregularis DAOM","Arbuscular mycorrhizae","Mucoromycota","Glomeromycetes","Glomerales","Glomeraceae","Rhizophagus",0,0,3,0,0,0,0,0,0,0,0
+131,"RhiirA1_1","Rhizophagus irregularis A1","Arbuscular mycorrhizae","Mucoromycota","Glomeromycetes","Glomerales","Glomeraceae","Rhizophagus",0,0,4,0,0,0,0,0,0,0,0
+132,"RhiirA4","Rhizophagus irregularis A4","Arbuscular mycorrhizae","Mucoromycota","Glomeromycetes","Glomerales","Glomeraceae","Rhizophagus",0,0,6,0,0,0,0,0,0,0,0
+133,"RhiirA5","Rhizophagus irregularis A5","Arbuscular mycorrhizae","Mucoromycota","Glomeromycetes","Glomerales","Glomeraceae","Rhizophagus",0,0,8,0,0,0,0,0,0,0,0
+134,"RhiirB3","Rhizophagus irregularis B3","Arbuscular mycorrhizae","Mucoromycota","Glomeromycetes","Glomerales","Glomeraceae","Rhizophagus",0,0,4,0,1,0,0,0,0,0,0
+135,"RhiirC2","Rhizophagus irregularis C2","Arbuscular mycorrhizae","Mucoromycota","Glomeromycetes","Glomerales","Glomeraceae","Rhizophagus",0,0,7,0,0,0,0,0,0,0,0
