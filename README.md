@@ -3,11 +3,11 @@
                                                Shingo Miyauchi 7April20
 # Descriptions
 
-This is the demonstration of data visualisation with a set of custom R scripts - Proteomic Information Navigated Genomic Outlook (PRINGO). This demonstration includes the main Figures, which were used to support the core findings in the manuscript. 
+Proteomic Information Navigated Genomic Outlook (PRINGO) is a set of custom R scripts for data visualisation. This demonstration includes the main Figures, which were used to support the core findings in the manuscript. 
 
 PRINGO enables us to visualise combined output from the established tools and websites including BUSCO (Sima et al., 2015), Genome stats from Mycocosm (http://mycocosm.jgi.doe.gov), Secretome prediction (Pellegrin et al., 2015), identifying transposable elements (Morin et al., 2019), the CAZyme repertoire (http://www.cazy.org/). 
 
-Please note that PRINGO itself does not produce bioinformatic results. It is a visualisation tool for large complex data. 
+*Please note that PRINGO itself does not produce bioinformatic results. It is a visualisation tool for large complex data. 
 
 # Requirement for R and packages
 Please install, 
