@@ -10,7 +10,6 @@ PRINGO enables us to visualise combined output from the established tools and we
 
 Please note that PRINGO itself does not produce bioinformatic results. It is a visualisation tool for large complex data. 
 
-
 # Requirement for R and packages
 Please install R Studio and R 
 R Studio
@@ -35,9 +34,8 @@ RColorBrewer 1.1-2
 
 *Please note that raw figures generated from the scripts were adjusted with Adobe Illustator for the final reader-friendly version.  
 
-(1) Genomic feature bar plot
+# (1) Genomic feature bar plot
 
-# Descriptions of the script
 We visualised the combined results of; 1) calculated BUSCO (genome completeness); 2) Genome stats from Mycocosm; 3) identified transposable elements; 4) the number of theoretically secreted proteins from secretome prediction (see Supplementary Table 2).
 
 Input file: 
@@ -46,8 +44,8 @@ Input file:
 Output file:
 135_Fungi_GF_Step3_GenomicFeatures.pdf
 
-(2) Transposable element bubble plot
-# Descriptions of the script
+# (2) Transposable element bubble plot
+
 We visualised the combined results of the genome size and identified transposable elements by grouping 135 fungi based on their lifestyles. 
 
 Input file:
@@ -56,9 +54,8 @@ Input file:
 Output file:
 135_Fungi_TINGO_Step6.5_LifeStyle_Box_GenomeSizeVsTEs.pdf
 
-(3) Genome size + TE coverage box plot
+# (3) Genome size + TE coverage box plot
 
-# Descriptions of the script 
 We visualised the combined results of identified transposable elements for 135 fungi using TINGO pipeline (Morin et al., 2019). The script produces two plots - The TE coverage in the genomes and the copy number of TE families. Please note that we only used the TE coverage plot in the manuscript.    
 
 Input file: 
@@ -68,9 +65,8 @@ Output files:
 135_Fungi_TINGO_Step6.4_LifeStyle_TE_Coverage.pdf
 135_Fungi_TINGO_Step6.4_LifeStyle_TE_CopyNumber.pdf
 
-(4) Secreted CAZyme bubble plot
+# (4) Secreted CAZyme bubble plot
 
-# Descriptions of the script
 We selected the secreted CAZymes of interest from the count of secretomes and used as an input file. The script makes a heatmap showing the count of genes and legends separately. We put them together using Adobe Illustrator. 
 
 Input file:
@@ -79,7 +75,6 @@ Input file:
 Output files:
 135_fungi_PCWDE_Step2_PCWDEs_Secreted_legend.pdf (legend only)
 135_fungi_PCWDE_Step2_PCWDEs_Secreted.pdf (heatmap)
-
 
 # References 
 1. Morin, E., Miyauchi, S., San Clemente, H., Chen, E.C.H., Pelin, A., de la, Providencia, I., Ndikumana, S., Beaudet, D., Hainaut, M., Drula, E., Kuo, A., Tang, N., Roy, S., Viala, J., Henrissat, B., Grigoriev, I.V., Corradi, N., Roux, C. and Martin, F.M. (2019), Comparative genomics of Rhizophagus irregularis, R. cerebriforme, R. diaphanus and Gigaspora rosea highlights specific genetic features in Glomeromycotina. New Phytol, 222: 1584-1598. doi:10.1111/nph.15687 
