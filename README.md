@@ -1,7 +1,6 @@
 # Visualisaiton of large tables with PRINGO
 
                                                Shingo Miyauchi 7April20
-
 # Descriptions
 
 This is the demonstration of data visualisation with a set of custom R scripts - Proteomic Information Navigated Genomic Outlook (PRINGO). This demonstration includes the main Figures, which were used to support the core findings in the manuscript. 
@@ -23,7 +22,6 @@ gtools 3.8.1
 ggpubr 0.2
 reshape2 1.4.3
 RColorBrewer 1.1-2
-
 
 # How to run the demonstration
 1) Download files into a folder
