@@ -10,17 +10,17 @@ PRINGO enables us to visualise combined output from the established tools and we
 Please note that PRINGO itself does not produce bioinformatic results. It is a visualisation tool for large complex data. 
 
 # Requirement for R and packages
-Please install R Studio and R 
-R Studio
+Please install, 
+R Studio,
 R 3.5.1 
 
-Please install R packages
-egg  0.4.0
-dplyr 0.7.6
-ggplot2 3.0.0
-gtools 3.8.1
-ggpubr 0.2
-reshape2 1.4.3
+Please install R packages,
+egg  0.4.0,
+dplyr 0.7.6,
+ggplot2 3.0.0,
+gtools 3.8.1,
+ggpubr 0.2,
+reshape2 1.4.3,
 RColorBrewer 1.1-2
 
 # How to run the demonstration
