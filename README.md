@@ -1,13 +1,13 @@
-# Visualisaiton of large tables with PRINGO
+# Visual genomic features with PRINGO & TINGO
 
                                                Shingo Miyauchi 7April20
 # Descriptions
 
-Proteomic Information Navigated Genomic Outlook (PRINGO) is a set of custom R scripts for data visualisation. This demonstration includes the main Figures, which were used to support the core findings in Miyauchi et al. (2020) in Nature Communications. 
+Proteomic Information Navigated Genomic Outlook (PRINGO) and Transposon Identification Nominative Genome Overview (TINGO; Morin et al., 2019) are custom R scripts for data integration and visualisation. This demonstration includes the main Figures, which were used to support the core findings in Miyauchi et al. (2020) in Nature Communications. 
 
-PRINGO enables us to visualise combined output from the established tools and websites including BUSCO (Sima et al., 2015), Genome stats from Mycocosm (http://mycocosm.jgi.doe.gov), Secretome prediction (Pellegrin et al., 2015), identifying transposable elements (Morin et al., 2019), the CAZyme repertoire (http://www.cazy.org/). 
+PRINGO enables us to visualise combined output from the established tools and websites including BUSCO (Sima et al., 2015), Genome stats from Mycocosm (http://mycocosm.jgi.doe.gov), Secretome prediction (Pellegrin et al., 2015), identified transposable elements (Morin et al., 2019), the CAZyme repertoire (http://www.cazy.org/). TINGO generates visual bubble charts from identified transposable elements (Morin et al., 2019).  
 
-*Please note that PRINGO itself does not produce bioinformatic results. It is a visualisation tool for large complex data. 
+*Please note that PRINGO and TINGO do not produce bioinformatic results. They are visualisation tools for complex genomic data. 
 
 # Requirement for R and packages
 Please install, 
